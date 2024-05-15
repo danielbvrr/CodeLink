@@ -81,8 +81,8 @@ DATABASES = {
         'HOST': 'aws-0-sa-east-1.pooler.supabase.com',
         'PORT': '5432',
         'NAME': 'postgres',
-        'USER': 'postgres.cxdkyfqngioeerfokxzy',
-        'PASSWORD': 'codelink2024',
+        'USER': 'postgres.cavikcnsdlhepwnlucge',
+        'PASSWORD': 'Codelink@2024',
     
     }
 }
