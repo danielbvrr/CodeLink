@@ -38,8 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'core',
-    'alarme',
-    'bancodedados',
+    
 ]
 
 MIDDLEWARE = [
