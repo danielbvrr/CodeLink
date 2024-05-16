@@ -1,4 +1,5 @@
 # CodeLink
+
 ### CodeLink
 
 CodeLink é um projeto desenvolvido com Django, um framework web em Python, com o objetivo de fornecer uma aplicação modular e eficiente. Este repositório contém a estrutura básica de um projeto Django, incluindo diversos aplicativos para gerenciar diferentes funcionalidades do sistema.
@@ -64,3 +65,4 @@ Contribuições são bem-vindas! Siga as etapas abaixo para contribuir:
 5. Abra um Pull Request.
 
 Para mais detalhes, acesse o repositório [CodeLink](https://github.com/danielbvrr/CodeLink). 
+=======
